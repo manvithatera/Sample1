@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>OG {{object.employee_name }}</h1>
+<p>{% if object.designation != None and object.designation != '' %}
+    {{ object.designation }}
+   {% else %}
+    {{ Designation will be updated }}
+   {% endif %}
+</p>
+{% endblock %}

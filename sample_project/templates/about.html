@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>About Page</h1>
+<p>This is a template</p>
+
+<p>
+, {{ my_contact }}
+{{ my_list }}
+</p>
+
+<ul>
+    <li>item1</li>
+    <li>item2</li>
+    <li>item3</li>
+</ul>
+
+<ul>
+{% for abc in my_list %}
+    {% if abc == 345678921 %}
+        <li>{{ forloop.counter }} - {{ abc|add:22 }}</li>
+    {% elif abc == "Abc" %}
+        <li>This is not the network</li>
+    {% else %}
+        <li>{{ forloop.counter }} - {{ abc }}</li>
+    {% endif %}
+
+
+{% endfor %}
+</ul>
+
+</body>
+</html>

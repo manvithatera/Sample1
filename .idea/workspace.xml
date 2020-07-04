@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e45f5dc-3c86-411a-b1f0-9147ad5e389b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/templates/employee/emp_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/templates/employee/emp_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/templates/employee/emp_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/templates/employee/emp_detail_id.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/templates/employee/emp_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/app1/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/templates/articles/article_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/templates/articles/article_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/templates/articles/article_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/templates/articles/article_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/pages/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/pages/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/pages/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/pages/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/pages/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/pages/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/sample_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/sample_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/sample_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/sample_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_project/templates/navbar.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1e6zti0MiIeTRHJxAjXtXWnpCTR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sample_project/templates/employee" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AKCI\Desktop\Projects\sample\sample_project\app1\templates" />
+      <recent name="C:\Users\AKCI\Desktop\Projects\sample\sample_project\app1\templates\employee" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AKCI\Desktop\Projects\sample\sample_project\templates\employee" />
+      <recent name="C:\Users\AKCI\Desktop\Projects\sample\sample_project\templates" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e45f5dc-3c86-411a-b1f0-9147ad5e389b" name="Default Changelist" comment="" />
+      <created>1593657046948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593657046948</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593765577995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593765577995" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1593742539274">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1593742539274" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1593688459029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593688459029" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593790403759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593790403759" />
+  </component>
+</project>
