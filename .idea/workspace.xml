@@ -2,56 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e45f5dc-3c86-411a-b1f0-9147ad5e389b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/templates/employee/emp_create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/templates/employee/emp_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/templates/employee/emp_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/templates/employee/emp_detail_id.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/templates/employee/emp_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/app1/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/templates/articles/article_create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/templates/articles/article_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/templates/articles/article_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/templates/articles/article_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/blog/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/pages/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/pages/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/pages/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/pages/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/pages/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/pages/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/sample_project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/sample_project/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/sample_project/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/sample_project/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_project/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_project/sample_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample_project/sample_project/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1e6zti0MiIeTRHJxAjXtXWnpCTR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

@@ -29,7 +29,7 @@ urlpatterns = [
     path('employee/',views.employee_detail_view,),
     path('create/',views.employee_create_view),
 
-    path('employee_id/<int:my_id>/',views.dynamic_lookup_view,name='employee_id'),
+    path('employee_id/<int:my_id>/',views.detail_lookup_view,name='employee_id'),
     path('employee_list/',views.employee_list_view,name='employee_list'),
     path('employee_id/<int:my_id>/delete/',views.employee_delete_view,name = 'employee_delete'),
     path('social/', social_view, name ='about'),
